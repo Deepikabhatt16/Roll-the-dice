@@ -1,0 +1,54 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  
+ 
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  
+  
+  body {
+    background-position: center;
+  background-size: cover;
+  background-image: url("https://www.mybarandrestaurant.com/wp-content/uploads/2016/01/liquor-liability-dice-roll.png");
+  
+  }
+  
+  h1 {text-align: center;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    font-family: cursive;
+    text-shadow: 5px 4px 3px #2b855a;
+    font-size: 5rem;
+    color: #7cff54;
+  }
+  
+  
+  p {font-weight: 700;
+    font-size: 3.5rem;
+    color: #0e0b09;
+    padding-bottom:34px;
+    margin: 12px;
+    text-shadow: 2px 1px 3px rgb(227, 219, 206);
+    font-style:italic;
+  }
+  
+  #img1,#img2 {
+    width:200px;
+    height: 200px;
+  
+  }
+  
+  h3{
+  padding-left: 34px;
+  font-weight: 900;
+  font-size: 2rem;
+    color: aliceblue;
+    text-shadow: 2px 4px 5px black;
+  }
